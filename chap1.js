@@ -12,7 +12,7 @@ var Mynanme ="Mirza Arbash Baig";
 var message ="Hello World";
 alert(message)
 var name ="Arbash";
-var age ="24 years old";
+var age ="24 Years old";
 var course ="Saylani Web app development";
 alert(name)
 alert(age)
